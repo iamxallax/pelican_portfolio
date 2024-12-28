@@ -3,7 +3,6 @@ name: Pelican site CI
 on:
   push:
     branches:
-      - master
       - main
 
 jobs:

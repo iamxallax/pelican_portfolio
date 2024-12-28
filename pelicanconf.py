@@ -1,6 +1,6 @@
 AUTHOR = 'Aaron Hoffman'
 SITENAME = 'Aaron Hoffman'
-SITEURL = ""
+SITEURL = "https://iamxallax.github.io/pelican_portfolio"
 
 PATH = "content"
 
